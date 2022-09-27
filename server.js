@@ -287,7 +287,7 @@ const addEmployee = () => {
             })
     });
 
-se
+
 }
 const updateEmployee = () => {
     console.log('update employee');
